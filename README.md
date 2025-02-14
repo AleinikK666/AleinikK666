@@ -1,5 +1,14 @@
-## Hi there 👋
+## I welcome you here 👋
+# 👩‍💻about me: 
+I am a Frontend Developer specialist 🍋💻 from Belarus.
 
+• I work freelance.
+
+• I study and implement ML approaches in solving various business problems.
+
+• In my free time I read technical literature and study various practices in the following areas: Frontend Development, Web-programming, Web-design.
+
+## Contact: https://t.me/katyaleinik
 <!--
 **AleinikK666/AleinikK666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
