@@ -6,6 +6,32 @@ I am a Frontend Developer specialist 🍋💻 from Belarus.
 
 • In my free time I read technical literature and study various practices in the following areas: Frontend Development, Web-programming, Web-design.
 
+## 🚀 Technical Skills
+
+#### 💻 Programming Languages
+- *Primary*: JavaScript, TypeScript
+- *Secondary*: C/C++, Swift, Python
+- *Additionally*: Java, Kotlin
+
+#### 🗄️ Databases
+- *Primary*: PostgreSQL, MySQL, MSSQL
+- *Additionally*: Oracle
+
+#### 🖥️ O/S
+- *Primary*: MacOS
+- *Secondary*: Windows, Linux
+
+#### 🧰 Tools, Application Platforms and Other
+- WebStorm, VSCode, Xcode, IntelliJ IDEA, Microsoft Office
+- GitHub, GitLab, GitHub Pages, GitHub Actions
+- Figma, Photoshop, Illustrator
+- Postman
+
+#### 🌐 Foreign Languages
+- **English**: Written & Spoken – Advanced
+- **Spanish**: Written – Elementary
+- **Belarusian, Russian**: Native
+
 # Contacts: 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/katyaleinik)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/katyaleinik/)
