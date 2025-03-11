@@ -1,10 +1,9 @@
 ## I welcome you here 👋
 # 👩‍💻about me: 
-I am a Frontend Developer specialist 🍋💻 from Belarus.
+I am a **Frontend Developer specialist**🍋💻 from Belarus.
 
-• I work freelance.
-
-• In my free time I read technical literature and study various practices in the following areas: Frontend Development, Web-programming, Web-design.
+- *Primary*: I work freelance.
+- *Secondary*: In my free time I read technical literature and study various practices in the following areas: Frontend Development, Web-programming, Web-design.
 
 ## 🚀 Technical Skills
 
@@ -12,10 +11,6 @@ I am a Frontend Developer specialist 🍋💻 from Belarus.
 - *Primary*: JavaScript, TypeScript
 - *Secondary*: C/C++, Swift, Python
 - *Additionally*: Java, Kotlin
-
-#### 🗄️ Databases
-- *Primary*: PostgreSQL, MySQL, MSSQL
-- *Additionally*: Oracle
 
 #### 🖥️ O/S
 - *Primary*: MacOS
@@ -26,6 +21,10 @@ I am a Frontend Developer specialist 🍋💻 from Belarus.
 - GitHub, GitLab, GitHub Pages, GitHub Actions
 - Figma, Photoshop, Illustrator
 - Postman
+
+#### 🗄️ Databases
+- *Primary*: MySQL, MSSQL, PostgreSQL
+- *Additionally*: Oracle
 
 #### 🌐 Foreign Languages
 - **English**: Written & Spoken – Advanced
