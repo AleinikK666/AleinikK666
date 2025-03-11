@@ -7,7 +7,7 @@ I am a Frontend Developer specialist 🍋💻 from Belarus.
 • In my free time I read technical literature and study various practices in the following areas: Frontend Development, Web-programming, Web-design.
 
 # Contacts: 
-
+[!
 [Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/katyaleinik)
 <!--
 **AleinikK666/AleinikK666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
