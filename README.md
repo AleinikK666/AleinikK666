@@ -2,8 +2,8 @@
 # 👩‍💻about me: 
 I am a **Frontend Developer specialist**🍋💻 from Belarus.
 
-- *Primary*: I work freelance.
-- *Secondary*: In my free time I read technical literature and study various practices in the following areas: Frontend Development, Web-programming, Web-design.
+-  I work freelance.
+-  In my free time I read technical literature and study various practices in the following areas: Frontend Development, Web-programming, Web-design.
 
 ## 🚀 Technical Skills
 
