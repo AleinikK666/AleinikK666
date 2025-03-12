@@ -20,6 +20,7 @@ I am a **Frontend Developer specialist**🍋💻 from Belarus.
 - WebStorm, VSCode, Xcode, IntelliJ IDEA, Microsoft Office
 - GitHub, GitLab, GitHub Pages, GitHub Actions
 - Figma, Photoshop, Illustrator
+- React.Native, Node.js
 - Postman
 
 #### 🗄️ Databases
