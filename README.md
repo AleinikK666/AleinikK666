@@ -8,8 +8,8 @@ I am a **Frontend Developer specialist**🍋💻 from Belarus.
 ## 🚀 Technical Skills
 
 #### 💻 Programming Languages
-- *Primary*: JavaScript, TypeScript, C/C++
-- *Secondary*:  Swift, Python
+- *Primary*: JavaScript, TypeScript, Swift, C/C++
+- *Secondary*: Objective-C, Python
 - *Additionally*: Java, Kotlin
 
 #### 🖥️ O/S
