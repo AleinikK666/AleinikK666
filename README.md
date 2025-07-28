@@ -1,5 +1,5 @@
 ## I welcome you here 👋
-# 👩‍💻about me: 
+# 👩‍💻 About me: 
 I am a **iOS-Developer specialist**🍋💻 from Belarus.
 
 -  I work freelance.
@@ -29,9 +29,10 @@ I am a **iOS-Developer specialist**🍋💻 from Belarus.
 - *Additionally*: Oracle
 
 #### 🌐 Foreign Languages
-- **English**: Written & Spoken – Advanced
-- **Spanish**: Written – Elementary
-- **Belarusian, Russian**: Native
+- Russian (Native)
+- Belarusian (Native)
+- English (Upper Intermediate)
+- Spanish (Elementary)
 
 # Contacts: 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/katyaleinik)
