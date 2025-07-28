@@ -8,7 +8,7 @@ I am a **iOS-Developer specialist**🍋💻 from Belarus.
 ## 🚀 Technical Skills
 
 #### 💻 Programming Languages
-- *Primary*: Swift,Objective-C, JavaScript, TypeScript
+- *Primary*: Swift, Objective-C, JavaScript, TypeScript
 - *Secondary*:  Python, C/C++, Kotlin
 - *Additionally*: Java
 
