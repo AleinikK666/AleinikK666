@@ -1,25 +1,26 @@
 ## I welcome you here 👋
 # 👩‍💻about me: 
-I am a **Frontend Developer specialist**🍋💻 from Belarus.
+I am a **iOS-Developer specialist**🍋💻 from Belarus.
 
 -  I work freelance.
--  In my free time I read technical literature and study various practices in the following areas: Frontend Development, Web-programming, Web-design.
+-  In my free time I read technical literature and study various practices in the following areas: iOS Development, Mobile Development, Frontend Development, Web-programming, Web-design.
 
 ## 🚀 Technical Skills
 
 #### 💻 Programming Languages
-- *Primary*: JavaScript, TypeScript, Swift, C/C++
-- *Secondary*: Objective-C, Python
-- *Additionally*: Java, Kotlin
+- *Primary*: Swift,Objective-C, JavaScript, TypeScript
+- *Secondary*:  Python, C/C++, Kotlin
+- *Additionally*: Java
 
 #### 🖥️ O/S
 - *Primary*: MacOS
 - *Secondary*: Windows, Linux
 
 #### 🧰 Tools, Application Platforms and Other
-- WebStorm, VSCode, Xcode, IntelliJ IDEA, Microsoft Office
+- Xcode, IntelliJ IDEA, WebStorm, VSCode
 - GitHub, GitLab, GitHub Pages, GitHub Actions
 - Figma, Photoshop, Illustrator
+- Microsoft Office
 - React.Native, Node.js
 - Postman
 
