@@ -1,34 +1,42 @@
 ## I welcome you here 👋
 # 👩‍💻 About me: 
-I am a **iOS-Developer specialist**🍋💻 from Belarus.
+I am a **iOS-Developer specialist**🍋💻 from Belarus with **7 months of commercial experience in Swift** and **1.5 years in frontend development**. My passion lies in creating intuitive, user-centered applications across both mobile and web platforms.
 
--  I work freelance.
--  In my free time I read technical literature and study various practices in the following areas: iOS Development, Mobile Development, Frontend Development, Web-programming, Web-design.
+ My unique combination of **iOS and frontend expertise** enables me to deliver seamless user experiences and consistent design systems across all devices. I specialize in performance optimization, clean architecture, and bridging communication between development teams, always prioritizing user experience and product efficiency.
 
-## 🚀 Technical Skills
+I'm continuously expanding my skills with **modern technologies** including advanced SwiftUI, Combine framework, Swift Concurrency, and exploring Machine Learning integration alongside cutting-edge web development practices.
 
-#### 💻 Programming Languages
-- *Primary*: Swift, Objective-C, JavaScript, TypeScript
-- *Secondary*:  Python, C/C++, Kotlin
-- *Additionally*: Java
+# 🚀 Technical Skills
 
-#### 🖥️ O/S
-- *Primary*: MacOS
-- *Secondary*: Windows, Linux
+### 📱 iOS Development
 
-#### 🧰 Tools, Application Platforms and Other
-- Xcode, IntelliJ IDEA, WebStorm, VSCode
-- GitHub, GitLab, GitHub Pages, GitHub Actions
-- Figma, Photoshop, Illustrator
-- Microsoft Office
-- React.Native, Node.js
-- Postman
+| Category | Technologies |
+|----------|-------------|
+| **Languages & Frameworks** | Swift · UIKit · SwiftUI · Objective-C · Storyboard · Xib · WebKit |
+| **Architecture & Patterns** | MVC · MVP · MVVM · Coordinator · Singleton · Builder · Observer |
+| **UI & Layout** | Auto Layout · SnapKit · Programmatic UI · Adaptive Interfaces |
+| **Networking** | URLSession · Alamofire · REST API |
+| **Data & Persistence** | Core Data · Realm · Firebase (Firestore, Realtime Database, Authentication, Storage) |
+| **Concurrency** | Grand Central Dispatch · Operations · Multithreading · ARC |
+| **Tools** | Xcode · CocoaPods · Fastlane · Git · GitHub Actions · Postman |
+| **Apple Ecosystem** | HealthKit · ResearchKit · CareKit |
+| **Design & Prototyping** | Figma · Photoshop · Illustrator · Responsive Design |
 
-#### 🗄️ Databases
-- *Primary*: MySQL, MSSQL, PostgreSQL
-- *Additionally*: Oracle
+### 🖥️ Frontend & Cross-Platform
 
-#### 🌐 Foreign Languages
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | JavaScript ES6+ · TypeScript · HTML5 · CSS3 |
+| **Frontend Frameworks** | React · Angular · SASS |
+| **Mobile & Backend** | React Native · Node.js · Express |
+| **Databases** | MySQL · PostgreSQL · MSSQL |
+| **Development Tools** | IntelliJ IDEA · WebStorm · VSCode · Webpack · npm |
+| **Version Control** | GitHub · GitLab · GitHub Pages |
+| **Design & Prototyping** | Figma · Photoshop · Illustrator · Responsive Design |
+| **Productivity** | Microsoft Office · Postman |
+| **Practices** | Component Architecture · SPA · PWA · RESTful APIs · Cross-browser Compatibility |
+
+### 🌐 Foreign Languages
 - Russian (Native)
 - Belarusian (Native)
 - English (Upper Intermediate)
