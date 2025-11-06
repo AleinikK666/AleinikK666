@@ -35,10 +35,10 @@ I'm continuously expanding my skills with **modern technologies** including adva
 | **Modern Practices** | Component Architecture · SPA · PWA · Cross-browser Compatibility |
 
 ### 🌐 Foreign Languages
-- Russian (Native)
-- Belarusian (Native)
-- English (Upper Intermediate)
-- Spanish (Elementary)
+ **Russian** (Native)  
+ **Belarusian** (Native)  
+ **English** (Upper Intermediate)  
+ **Spanish** (Elementary)
 
 # Contacts: 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/katyaleinik)
