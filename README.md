@@ -22,19 +22,17 @@ I'm continuously expanding my skills with **modern technologies** including adva
 | **Apple Ecosystem** | HealthKit · ResearchKit · CareKit |
 | **Design & Prototyping** | Figma · Photoshop · Illustrator · Responsive Design |
 
-### 🖥️ Frontend & Cross-Platform
+### 🖥️ Frontend Development
 
 | Category | Technologies |
 |----------|-------------|
 | **Languages** | JavaScript ES6+ · TypeScript · HTML5 · CSS3 |
-| **Frontend Frameworks** | React · Angular · SASS |
-| **Mobile & Backend** | React Native · Node.js · Express |
-| **Databases** | MySQL · PostgreSQL · MSSQL |
-| **Development Tools** | IntelliJ IDEA · WebStorm · VSCode · Webpack · npm |
+| **Frameworks & Libraries** | React · Vue.js · Angular |
+| **Development Tools** | WebStorm · VSCode · Webpack · npm · yarn |
 | **Version Control** | GitHub · GitLab · GitHub Pages |
 | **Design & Prototyping** | Figma · Photoshop · Illustrator · Responsive Design |
-| **Productivity** | Microsoft Office · Postman |
-| **Practices** | Component Architecture · SPA · PWA · RESTful APIs · Cross-browser Compatibility |
+| **API Development** | RESTful APIs · Postman |
+| **Modern Practices** | Component Architecture · SPA · PWA · Cross-browser Compatibility |
 
 ### 🌐 Foreign Languages
 - Russian (Native)
