@@ -1,6 +1,6 @@
 ## I welcome you here 👋
 # 👩‍💻 About me: 
-I am a **iOS-Developer specialist**🍋💻 from Belarus with **7 months of commercial experience in Swift** and **1.5 years in frontend development**. My passion lies in creating intuitive, user-centered applications across both mobile and web platforms.
+I am a **iOS-Developer specialist**🍋💻 from Belarus with **7 months of commercial experience in Swift** and **2 years in frontend development**. My passion lies in creating intuitive, user-centered applications across both mobile and web platforms.
 
  My unique combination of **iOS and frontend expertise** enables me to deliver seamless user experiences and consistent design systems across all devices. I specialize in performance optimization, clean architecture, and bridging communication between development teams, always prioritizing user experience and product efficiency.
 
