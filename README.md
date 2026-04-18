@@ -1,4 +1,24 @@
-![](https://tenor.com/ja/view/relatable-work-from-home-coffee-break-productivity-remote-gif-956138424109250402)
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdnMmMwYjJueXkyYXBrZWwzejN0Mm5ld2p5MmpkNWY1bjBtOTF1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yTFemEJxmeW2YLOT6p/giphy.gif" width="200" alt="Приветствие"/>
+</p>
+
+<h1 align="center">I welcome you here 👋</h1>
+
+<p align="center">
+  <a href="https://t.me/katyaleinik">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://www.instagram.com/katyaleinik/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:aleinik.katya.04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AleinikK666&style=flat-square" alt="Profile views"/>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=AleinikK666&style=flat-square)
 ## I welcome you here 👋
