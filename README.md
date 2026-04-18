@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AleinikK666&style=flat-square" alt="Profile views"/>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=AleinikK666&style=flat-square" alt="Profile views"/></p>
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdnMmMwYjJueXkyYXBrZWwzejN0Mm5ld2p5MmpkNWY1bjBtOTF1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yTFemEJxmeW2YLOT6p/giphy.gif" width="150" alt="Приветствие"/>
 </p>
