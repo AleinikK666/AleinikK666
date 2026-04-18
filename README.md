@@ -1,4 +1,5 @@
-![Приветствие](https://media.giphy.com/media/your-gif-link/giphy.gif)
+![](https://tenor.com/ja/view/relatable-work-from-home-coffee-break-productivity-remote-gif-956138424109250402)
+
 ![](https://komarev.com/ghpvc/?username=AleinikK666&style=flat-square)
 ## I welcome you here 👋
 # 👩‍💻 About me: 
