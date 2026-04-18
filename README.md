@@ -1,3 +1,4 @@
+![Приветствие](https://media.giphy.com/media/your-gif-link/giphy.gif)
 ![](https://komarev.com/ghpvc/?username=AleinikK666&style=flat-square)
 ## I welcome you here 👋
 # 👩‍💻 About me: 
