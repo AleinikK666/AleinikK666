@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdnMmMwYjJueXkyYXBrZWwzejN0Mm5ld2p5MmpkNWY1bjBtOTF1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yTFemEJxmeW2YLOT6p/giphy.gif" width="150" alt="Приветствие"/>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AleinikK666&style=flat-square" alt="Profile views"/>
+</p>
 <h2 align="center">I welcome you here 👋</h2>
 
 <p align="center">
@@ -15,9 +17,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AleinikK666&style=flat-square" alt="Profile views"/>
-</p>
+
 
 # 👩‍💻 About me: 
 I am a **iOS-Developer specialist**🍋💻 from Belarus with **7 months of commercial experience in Swift** and **2 years in frontend development**. My passion lies in creating intuitive, user-centered applications across both mobile and web platforms.
