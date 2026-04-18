@@ -11,6 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AleinikK666&style=flat-square" alt="Profile views"/>
 </p>
+
 ## I welcome you here 👋
 # 👩‍💻 About me: 
 I am a **iOS-Developer specialist**🍋💻 from Belarus with **7 months of commercial experience in Swift** and **2 years in frontend development**. My passion lies in creating intuitive, user-centered applications across both mobile and web platforms.
